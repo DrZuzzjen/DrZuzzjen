@@ -42,16 +42,37 @@ class DrZuzzjen:
 
 <div align="center">
 
+### Agentic Coding
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=for-the-badge&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Kluster.ai](https://img.shields.io/badge/-Kluster.ai-6C3CE9?style=for-the-badge&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-E2571A?style=for-the-badge&logoColor=white)
+
+### Agent Frameworks & Automation
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Dify](https://img.shields.io/badge/-Dify-0033FF?style=for-the-badge&logo=dify&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Hermes](https://img.shields.io/badge/-Hermes-6C2BD9?style=for-the-badge&logoColor=white)
+
+### AI / ML & Providers
+![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Cloud AI
+![Azure AI Foundry](https://img.shields.io/badge/-Azure%20AI%20Foundry-0078D4?style=for-the-badge&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=for-the-badge&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### Web & Tools
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
