@@ -2,11 +2,11 @@
 
 # Hey, I'm Jean Francois! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### DevRel @ [Kluster.ai](https://kluster.ai) | AI Engineer | Valencia, Spain
+### CTO @ [My Tech Plan](https://mytechplan.com) | Head of AI & Tech @ [GenAI Summit EU](https://genaisummit.eu) | AI Engineer
 
 [![Twitter](https://img.shields.io/badge/-@DrZuzzjen-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/DrZuzzjen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gutierrezfrancois)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://fran-ai.dev)
 
 </div>
 
@@ -18,13 +18,13 @@
 class DrZuzzjen:
     def __init__(self):
         self.name = "Jean Francois Gutierrez"
-        self.role = "DevRel & AI Engineer"
-        self.company = "Kluster.ai"
+        self.role = "CTO & Head of AI"
+        self.companies = ["My Tech Plan", "GenAI Summit EU"]
         self.location = "Valencia, Spain"
-        self.interests = ["LLMs", "Activation Steering", "AI Safety", "Developer Tools"]
+        self.interests = ["Agentic Systems", "LLMs", "AI Safety", "Developer Tools"]
 
     def current_focus(self):
-        return "Making AI more interpretable and building cool developer tools"
+        return "Shipping agentic systems at MTP & running Europe's reference applied-AI conference"
 ```
 
 ---
